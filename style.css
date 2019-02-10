@@ -10,12 +10,13 @@ article > * {
     margin: 10px 0;
 }
 
-article h1, h2 {
+h1, h2 {
     font-size: 16px;
     font-weight: 300;
     letter-spacing: 1.5px;
 }
-article a, a:visited {
+
+a, a:visited {
     color: blue;
 }
 
