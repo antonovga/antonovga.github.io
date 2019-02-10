@@ -1,3 +1,8 @@
+@font-face {
+    font-family: Inconsolata;
+    src: url(Inconsolata-Regular.ttf);
+}
+
 article {
     display: flex;
     flex-direction: column;
